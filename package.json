@@ -18,7 +18,7 @@
     "axios": "^1.2.3",
     "commander": "^10.0.0",
     "ethers": "^5.7.2",
-    "userop": "^0.3.0",
+    "userop": "^0.3.4",
     "dotenv": "^16.3.1"
   },
   "devDependencies": {
